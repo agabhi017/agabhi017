@@ -2,7 +2,7 @@
 
 ### I am Abhishek!
 
-I am currently a Masters student in the Computer Science department at the University of Chicago. My intersts lie in Software Engineering and High Performance Computing. 
+I am currently a Masters student in the Computer Science department at the University of Chicago. My interests lie in Software Engineering and High Performance Computing. 
 <!--
 
 🌱 I’m currently learning C++, Data Structures and Algorithms
